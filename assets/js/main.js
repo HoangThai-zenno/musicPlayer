@@ -25,54 +25,6 @@ const app = {
             image: "./assets/images/singer.jpg"
         },
         {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
-            name: "Em là",
-            singer: "Mono",
-            path: "./assets/music/emla_Mono.mp3",
-            image: "./assets/images/singer.jpg"
-        },
-        {
             name: "Waitting For You",
             singer: "Mono",
             path: "./assets/music/waittingforyou_Mono.mp3",
