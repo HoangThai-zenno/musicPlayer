@@ -43,8 +43,10 @@ html {
     top: 0;
     width: 100%;
     max-width: 480px;
-    border-top-right-radius: 55px;
-    border-top-left-radius: 55px;
+    border-top-right-radius: 28px;
+    border-top-left-radius: 28px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
     border-bottom: 1px solid #ebebeb;
 }
 
